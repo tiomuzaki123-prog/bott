@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "admins": [
+    "141381783810143",
+    "219640768802884",
+    "143907342004241",
+    "195808179798222",
+    "244006487359732"
+  ],
+  "members": {
+    "155610993680431": {
+      "id": "155610993680431",
+      "name": "Tio",
+      "points": 0,
+      "exp": 0,
+      "createdAt": "2026-10-13 16.53.41 WIB"
+    },
+    "141381783810143": {
+      "id": "141381783810143",
+      "name": "damz",
+      "points": 0,
+      "exp": 0,
+      "createdAt": "2026-10-13 16.58.45 WIB"
+    },
+    "219640768802884": {
+      "id": "219640768802884",
+      "name": "Alby Rizady",
+      "points": 0,
+      "exp": 0,
+      "createdAt": "2026-10-13 17.18.09 WIB"
+    },
+    "244006487359732": {
+      "id": "244006487359732",
+      "name": "🔥",
+      "points": 0,
+      "exp": 0,
+      "createdAt": "2026-10-13 23.22.23 WIB"
+    },
+    "143907342004241": {
+      "id": "143907342004241",
+      "name": "❄️",
+      "points": 0,
+      "exp": 0,
+      "createdAt": "2026-10-14 02.33.08 WIB"
+    }
+  },
+  "attendance": {
+    "2026-10-13|155610993680431": {
+      "date": "2026-10-13",
+      "memberId": "155610993680431",
+      "name": "Tio",
+      "inTime": "16.54.10",
+      "outTime": "16.55.09",
+      "inAt": "2026-10-13 16.54.10 WIB",
+      "outAt": "2026-10-13 16.55.09 WIB"
+    },
+    "2026-10-13|141381783810143": {
+      "date": "2026-10-13",
+      "memberId": "141381783810143",
+      "name": "damz",
+      "inTime": "22.19.36",
+      "outTime": "22.21.37",
+      "inAt": "2026-10-13 22.19.36 WIB",
+      "outAt": "2026-10-13 22.21.37 WIB"
+    }
+  },
+  "schedules": [
+    {
+      "id": 1,
+      "name": "20 sep - 20 okt",
+      "date": "2026-10-14",
+      "start": "20:09",
+      "end": "20:10",
+      "note": "22 sep - opening blok m✅️\n25 sep - closing gbk✅️\n26 sep - closing mkg✅️\n27 sep - closing mkg✅️\n28 sep - closing gbk *(lembur 1 jam)*✅️\n\n01 okt - middle mkg✅️\n03 okt - opening 0,5 - closing 0,5 gbk✅️\n04 okt - middle blok m *(lembur 1 jam)*✅️\n05 okt - closing gbk *(lembur 2 jam)*✅️\n06 okt - midle mkg✅️\n08 okt - opening blok m✅️\n09 okt - closing gbk✅️\n10 okt - closing mkg✅️\n11 okt - middle blok m *(lembur 1jam)*✅️\n14 okt - loading in jiexpo\n15 okt - jiexpo\n16 okt - jiexpo\n17 okt - jiexpo\n18 okt - jiexpo",
+      "createdBy": "Tio"
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": 1,
+      "question": "Berapakah hasil dari 12 × 8?",
+      "options": [
+        "86",
+        "96",
+        "108",
+        "112"
+      ],
+      "answer": 1,
+      "difficulty": "mudah",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "question": "Planet terbesar di tata surya adalah?",
+      "options": [
+        "Bumi",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "answer": 2,
+      "difficulty": "mudah",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "question": "Apa ibu kota Australia?",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Perth"
+      ],
+      "answer": 1,
+      "difficulty": "sedang",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "question": "Unsur kimia dengan simbol Fe adalah?",
+      "options": [
+        "Fluorin",
+        "Fosfor",
+        "Besi",
+        "Perak"
+      ],
+      "answer": 2,
+      "difficulty": "sedang",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "question": "Bilangan prima terkecil yang lebih besar dari 20 adalah?",
+      "options": [
+        "21",
+        "23",
+        "25",
+        "27"
+      ],
+      "answer": 1,
+      "difficulty": "sulit",
+      "enabled": true
+    }
+  ],
+  "wordQuestions": [
+    {
+      "id": 1,
+      "word": "RUMAH",
+      "clue": "Bangunan tempat tinggal.",
+      "difficulty": "mudah",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "word": "KOMPUTER",
+      "clue": "Perangkat elektronik untuk mengolah data.",
+      "difficulty": "sedang",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "word": "GALAKSI",
+      "clue": "Kumpulan besar bintang, gas, dan debu kosmik.",
+      "difficulty": "sulit",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "word": "SEKOLAH",
+      "clue": "Tempat untuk belajar bersama guru.",
+      "difficulty": "mudah",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "word": "PETUALANGAN",
+      "clue": "Perjalanan atau pengalaman yang penuh tantangan.",
+      "difficulty": "sulit",
+      "enabled": true
+    }
+  ],
+  "nextScheduleId": 2,
+  "nextQuizId": 6,
+  "nextWordId": 6,
+  "pointEvents": [],
+  "notifiedSchedules": []
+}
